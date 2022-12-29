@@ -4,7 +4,7 @@ import styled from '@emotion/styled';
 
 import './App.css'
 import Main from './pages/main'
-import MarkDownAdd from './pages/markdownAdd';
+import MarkDownAdd from './pages/addBlog/markdownAdd';
 import Test from './pages/test';
 
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
